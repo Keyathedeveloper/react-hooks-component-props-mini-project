@@ -1,5 +1,5 @@
 
-function About ({about, image = "https://via.placeholder.com/215"}) {
+function About ({image = "https://via.placeholder.com/215", about}) {
 
     return (
         <aside>
